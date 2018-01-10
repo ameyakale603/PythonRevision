@@ -1,0 +1,24 @@
+Operators
+     1.	arity:-number of operands  //unary and binary
+           eg: a+b   // binary
+	   eg: !a    //unary
+
+     2.  precedance: defines priority
+		BODMAS rule
+
+     
+     3.  associativity:- two operators  of same priority will be evaluated
+		right------>left     // unary,compound assignment(combinational assignments),ternary
+		left-------->right   // all other operators
+
+
+
+Arithmatic Operators
+
+	1. Unary:- +,-
+	2. Binary:- +,-,*,/,%, **
+		
+
+     
+
+     	
